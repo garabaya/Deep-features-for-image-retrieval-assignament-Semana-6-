@@ -1,5 +1,5 @@
 # Deep features for image retrieval assignament (Semana 6)
-Jupyter notebook corresponding to the assignament of the Unit: "Neural networks: Learning very non-linear features" in the Coursera "Machine Learning Foundations: A Case Study Approach" course.
+Jupyter notebook corresponding to the assignament of the Unit: "Neural networks: Learning very non-linear features" in the University of Washington "Machine Learning Foundations: A Case Study Approach" course.
 
 
 ```python
